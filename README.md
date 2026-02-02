@@ -3,6 +3,7 @@
 This repository showcases real-world Salesforce Admin tasks completed in a Lightning environment.
 
 Skills demonstrated:
+
 • Custom Objects & Fields  
 • Validation Rules  
 • Data Import Wizard  
